@@ -19,8 +19,8 @@ SPDX-License-Identifier: MIT
   #define IGC_LIBRARY_NAME "libigc.so"
   #define FCL_LIBRARY_NAME "libigdfcl.so"
 #else
-  #define IGC_LIBRARY_NAME "libigc.so.1"
-  #define FCL_LIBRARY_NAME "libigdfcl.so.1"
+  #define IGC_LIBRARY_NAME "libigc.so.2"
+  #define FCL_LIBRARY_NAME "libigdfcl.so.2"
 #endif
 
 #endif // IGC_OPENCL_H
